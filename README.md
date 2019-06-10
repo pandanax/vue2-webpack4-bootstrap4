@@ -1,4 +1,4 @@
-# webpack-vue-stock
+# webpack-vue-bootstrap
 
 > A Vue.js project
 
@@ -27,4 +27,7 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#This project included fresh libraries 2019 without any vulnerabilities
+> Webpack 4 + Vue 2 + bootstrap 4
+
+#Enjoy!
